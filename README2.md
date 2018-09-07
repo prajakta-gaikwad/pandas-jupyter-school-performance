@@ -1,5 +1,15 @@
+# District-wide schools' performance analysis
+This project is to analyze the district-wide standardized test results. We have been given access to every student's math and reading scores, as well as various information on the schools they attend. our responsibility is to aggregate the data and showcase obvious trends in school performance.
 
-# Schools' Analysis
+#### Tech/framework used:
+
+* Pandas Library
+
+* Jupyter Notebook
+
+(the data has thousands of records. Hacking through the data to look for obvious trends in Excel is not a feasible option. The size of the data may seem daunting, but *Pandas* will efficiently parse through it.)
+
+# Observable trends based on the data analysis:
 
 * Overall, schools with higher budgets, did not yield better test results. By contrast, schools with higher spending per student actually  underperformed compared to schools with smaller budgets. (around 74% overall passing in schools with higher budgets (\$645-675) vs 95% in schools spending less than \$585 per student.)
 
