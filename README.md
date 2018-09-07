@@ -11,8 +11,6 @@ This project is to analyze the district-wide standardized test results. We have 
 (the data has thousands of records. Hacking through the data to look for obvious trends in Excel is not a feasible option. The size of the data may seem daunting, but *Pandas* will efficiently parse through it.)
 
 ### Observable trends based on the data analysis:
-*
-
 * Overall, schools with higher budgets, did not yield better test results. By contrast, schools with higher spending per student actually  underperformed compared to schools with smaller budgets. (around 74% overall passing in schools with higher budgets (\$645-675) vs 95% in schools spending less than \$585 per student.)
 
 * Smaller and medium sized schools dramatically out-performed large sized schools, the difference is more obvious in terms of passing math performances (Around 94% passing vs 70%).
